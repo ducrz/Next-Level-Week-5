@@ -1,5 +1,5 @@
 # Next-Level-Week-5
-Códigos da [Next Level Week 5](https://nextlevelweek.com) promovida pela  [Rocketseat](https://rocketseat.com.br)
+Códigos da [Next Level Week 5](https://nextlevelweek.com) promovida pela  [Rocketseat.](https://rocketseat.com.br)
 
 
 Foi desenvolvido o **App PlantManager**, cujo objetivo é permitir ao usuário cadastrar suas plantas e ser lembrado sempre que precisar cuidar delas.
